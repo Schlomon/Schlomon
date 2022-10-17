@@ -2,4 +2,4 @@
 - 🧑‍🎓 Studying Computer Science at KIT, Germany
 - 👀 I’m interested in, well, basically anything. Mostly AI at the moment
 - 🌱 I’m currently learning C++ and in the near future, hopefully Go as well
-- 📫 How to reach me: Please use the E-Mail address I used for commits on the repository you want to write about
+- 📫 How to reach me: Please use the E-Mail address I used for commits on the repository you are addressing
