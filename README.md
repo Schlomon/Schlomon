@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Schlomon
 - 🧑‍🎓 Studying Computer Science at KIT, Karslruhe, Germany
-- 👀 I’m interested in numerical mathematics
-- 🌱 I’m currently pursuing my bachelor's degree
+- 👀 Interested in numerical mathematics
+- 🌱 Currently pursuing my bachelor's degree
 - 📫 How to reach me: Please use the E-Mail address I used for commits on the repository you are addressing
